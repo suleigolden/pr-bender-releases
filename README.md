@@ -1,6 +1,6 @@
 # PR Bender — Releases
 
-This repository hosts the official release assets for [PR Bender](https://prbender.com) — an AI-assisted code review desktop app for GitHub pull requests.
+This repository hosts the official release assets for [PR Bender](https://prbender.com) — an Offline and AI-assisted code review desktop app for GitHub pull requests.
 
 > The source code is maintained in a private repository. This repo exists solely to distribute installable builds.
 
@@ -48,14 +48,13 @@ scoop update pr-bender
 
 ## What is PR Bender?
 
-PR Bender is a desktop app that connects to your GitHub account and lets you:
+PR Bender is a desktop and online app that connects to your GitHub account and lets you:
 
+- Do manual code reviews with a structured diff viewer online or offline
 - Review pull requests with AI-assisted summaries and inline suggestions
-- Run manual code reviews with a structured diff viewer
 - Track review history across your team's repos
-- Work offline with a local API — no data sent to the cloud unless you choose
 
-Visit [prbender.com](https://prbender.com) to learn more or sign up.
+Visit [prbender.com](https://prbender.com) to learn more and get started for free.
 
 ---
 
@@ -67,4 +66,4 @@ Full changelogs for each version are in the [Releases](https://github.com/suleig
 
 ## Support
 
-For bug reports or feature requests, reach out via [prbender.com](https://prbender.com).
+For bug reports or feature requests, reach out via [prbender.com](https://prbender.com/contact).
